@@ -1,0 +1,5 @@
+﻿  test.c
+  game.c
+d:\代码\vs比特上课代码\扫雷\扫雷\game.c(41): warning C4028: 形参 1 与声明不同
+  正在生成代码...
+  扫雷.vcxproj -> D:\代码\VS比特上课代码\扫雷\Debug\扫雷.exe
